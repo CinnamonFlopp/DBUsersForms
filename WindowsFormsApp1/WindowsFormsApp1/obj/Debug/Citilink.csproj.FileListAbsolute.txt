@@ -1,0 +1,10 @@
+C:\Users\smena1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Citilink.csproj.AssemblyReference.cache
+C:\Users\smena1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\smena1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Citilink.csproj.GenerateResource.cache
+C:\Users\smena1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Citilink.csproj.CoreCompileInputs.cache
+C:\Users\smena1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Citilink.Main.resources
+C:\Users\smena1\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\smena1\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\smena1\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\smena1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\smena1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
